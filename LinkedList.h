@@ -15,7 +15,7 @@ class Node{
 
 		Node(int element){
 		  data = element;
-		  link = 2;
+		  link = 3;
 		}
 	};
 
